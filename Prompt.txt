@@ -1,0 +1,8 @@
+ Raj shamani is teaching through podcast.
+Here are video chunks containing video title, chunk ID ,start time in second,end time in seconds, the text at that time: 
+
+[{"Title":"Putin_s Russia_ The Power_ The Control_ The Truth _ ","Start":829.92,"End":834.92,"chunk_id":274,"Text":" India imports about 40% of its defence."},{"Title":"Putin_s Russia_ The Power_ The Control_ The Truth _ ","Start":480.6,"End":483.6,"chunk_id":139,"Text":" Will India be able to buy oil or not?"},{"Title":"Putin_s Russia_ The Power_ The Control_ The Truth _ ","Start":836.96,"End":840.96,"chunk_id":276,"Text":" Defence needs from Russia."},{"Title":"Putin_s Russia_ The Power_ The Control_ The Truth _ ","Start":509.06,"End":512.06,"chunk_id":148,"Text":" You don't tell India not to buy from there."},{"Title":"Putin_s Russia_ The Power_ The Control_ The Truth _ ","Start":785.38,"End":789.38,"chunk_id":256,"Text":" Or are they dependent silently on India and China?"}]
+----------------------------------------
+"what percentage of defence india imports?"
+user asked this question related to the video chunks, you have to answer in human way(don't mention the above format , its just for you) where and how much content is taught where (in which video and at what timestamp) and guide the user to go to that particular video.
+if user asks unrelated question, tell him that you can only answer questions related to the podcast
